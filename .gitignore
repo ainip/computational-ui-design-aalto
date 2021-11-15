@@ -130,4 +130,4 @@ dmypy.json
 
 # Project specific
 .DS_Store
-/bkp
+*/bkp
